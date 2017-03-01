@@ -1,7 +1,10 @@
-import java.util.*;
+import java.uitl.*;
 import java.io.*;
-import static java.lang.System.*;
+import static java.lang.system.*;
 
+public class houseofCards {
+	public static void main (String[] args) throws IOExceptoin{
+		Scanner sc
 public class houseOfCards {
   public static void main(String[] args) throws IOException{
     Scanner sc = new Scanner(new File("cards.dat"));
